@@ -15,7 +15,7 @@
 </p>
 
 # MissShasa_Gbot
-Me On Telegram [✨Miss Shasa✨](http://t.me/MissShasa_bot)
+Me On Telegram [✨TITANS X✨](http://t.me/TITANS_X_userbot)
 
 ## How To Host
 The easiest way to deploy this Bot
